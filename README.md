@@ -31,4 +31,4 @@ This repository intended for use for build an API with jwt token security method
 
 ## Feedback
 
-If you have any feedback, please reach out to ictdev@assarent.co.id or yoki.situmorang@assarent.co.id
+feel free to discussion to me yokisitumorang@gmail.com
